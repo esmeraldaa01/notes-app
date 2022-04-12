@@ -1,0 +1,40 @@
+.note{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 25px;
+}
+.note-header{
+    background-color: #11c43b;
+    margin-top: 0;
+    height: 35px;
+    display: flex;
+    justify-content: flex-end;
+}
+.button{
+    border: none;
+    background-color: transparent;
+}
+.edit-icon{
+    color : white;
+    margin:10px;
+}
+.delete-icon{
+    color : white;
+    marginLeft: 20px ;
+    margin: 10px;
+
+}
+.none {
+    border: none;
+    outline: none;
+    overflow: hidden;
+}
+.decoration {
+    font-family: inherit;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    height: 240px;
+}

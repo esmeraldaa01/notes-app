@@ -1,0 +1,14 @@
+.all-notes{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.add-note{
+  background-color: #11c43b;
+  border: none;
+  border-radius: 5px;
+  padding: 6px;
+  color: white;
+  margin-left: 90%;
+  margin-top: 2%;
+}
